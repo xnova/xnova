@@ -1,12 +1,12 @@
 # Xnova
 
 Xnova is a **browser-based MMOG** (Massively Multiplayer Online Game). 
-The player starts on an empty planet and a small amount of **resources** 
-(*Metal*, *Crystal* and *Deuterium*, *Energy*). Then the player can start building resource extraction 
+The player starts on an empty **planet** and a small amount of **resources** 
+(*Metal*, *Crystal*, *Deuterium* and *Energy*). Then the player can start building resource extraction 
 *mines* and infrastructure to develop his planet. When the *Research Laboratory* is built the player can 
 investigate new **technologies** that will allow him to make **spaceships** and **defenses**. Then, the player can:
  - **Expand** colonizing new worlds.
- - **Explore** the universe
+ - **Explore** the universe.
  - **Attack** other players for resources.
  - **Trade** with other players.
  - Form **alliances** with other players.
