@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/xnova/xnova/master/docs/logo.png" align="left" width="192px" height="192px"/>
 <img align="left" width="0" height="192px" hspace="10"/>
 
-> The open source browser game.
+> The open source mobile [MMO](https://en.wikipedia.org/wiki/Massively_multiplayer_online_game) game.
 
 [![MIT License](https://img.shields.io/badge/license-GPLv3-007EC7.svg?style=flat-square)](/LICENSE) 
 [![Fish Shell Version](https://img.shields.io/badge/xnova-v0.0.1-007EC7.svg?style=flat-square)](http://xnova.io) 
@@ -9,7 +9,7 @@
 [![Slack Status](https://oh-my-fish-slack.herokuapp.com/badge.svg)](https://oh-my-fish-slack.herokuapp.com)
 
 
-Xnova is a **browser-based MMOG** (Massively Multiplayer Online Game). 
+Xnova is a **mobile MMO** (Massively Multiplayer Online) strategy game. 
 The player starts on an empty **planet** and a small amount of **resources** (*Metal*, *Crystal*, *Deuterium* and *Energy*). Then the player can start building resource extraction 
 *mines* and infrastructure to develop his planet. 
 
@@ -23,7 +23,7 @@ When the *Research Laboratory* is built the player can investigate new **technol
 All this while playing with thousands of other players in a vast **universe** (categorized into *galaxies*, *solar systems* and *planets*). Xnova is heavily inspired by [OGame](https://en.wikipedia.org/wiki/OGame).
 
 Xnova is coded in [JavaScript](https://es.wikipedia.org/wiki/JavaScript), the frontend runs on 
-[React](https://facebook.github.io/react/) and the backend is built on top of [Node.js](https://nodejs.org),
+[React Native](https://facebook.github.io/react-native/). The backend is built on top of [Node.js](https://nodejs.org),
  [Express](http://expressjs.com), [GraphQL](http://graphql.org) and [PostgreSQL](https://www.postgresql.org). We created this with the aim of allowing anyone with basic 
 programming skills have a Xnova server running in 5 minutes.
 
@@ -38,8 +38,8 @@ announcements.
  - Nothing :(
 
 ### TODO
- - Register player
- - Login player
+ - Fullscreen
+ - Registration flow alà *Clash of Clans*
  - Produce resources each second
  - Rename planet
  - Construct buildings
@@ -69,6 +69,7 @@ announcements.
   - Return fleet/abort
  - Settings
  - Social
+  - Messages
   - Friends
   - Chats
   - Share espionage report
