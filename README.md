@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/xnova/xnova/master/docs/logo.jpg" align="left" width="192px" height="192px"/>
+<img src="https://raw.githubusercontent.com/xnova/xnova/master/docs/logo.png" align="left" width="192px" height="192px"/>
 <img align="left" width="0" height="192px" hspace="10"/>
 
 > The open source browser game.
