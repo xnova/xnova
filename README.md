@@ -6,7 +6,7 @@
 [![MIT License](https://img.shields.io/badge/license-GPLv3-007EC7.svg?style=flat-square)](/LICENSE) 
 [![Fish Shell Version](https://img.shields.io/badge/xnova-v0.0.1-007EC7.svg?style=flat-square)](http://xnova.io) 
 [![Travis Build Status](http://img.shields.io/travis/xnova/xnova.svg?style=flat-square)](https://travis-ci.org/xnova/xnova) 
-[![Slack Status](https://oh-my-fish-slack.herokuapp.com/badge.svg)](https://oh-my-fish-slack.herokuapp.com)
+[![Slack Status](https://xnova-slack.herokuapp.com/badge.svg)](https://xnova-slack.herokuapp.com)
 
 
 Xnova is a **mobile MMO** (Massively Multiplayer Online) strategy game. 
