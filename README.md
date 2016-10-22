@@ -34,6 +34,48 @@ announcements.
 
 ## Features
 
+### Implemented
+ - Nothing :(
+
+### TODO
+ - Register player
+ - Login player
+ - Produce resources each second
+ - Rename planet
+ - Construct buildings
+ - Cancel construction
+ - Deconstruct buildings
+ - Show planet info (coords, temp, name, size, fields used/total, queue status)
+ - Construction Queue
+ - Investigate technologies
+ - Research Queue
+ - Shipyard Queue
+ - Realtime ranking per scores (total, ships, victories, resources destroyed...)
+ - Alliances:
+  - Create alliance
+  - Join alliance
+  - Accept/reject request
+  - Wars
+  - ...
+ - Fleets:
+  - Missions:
+   - Colonize
+   - Transport
+   - Deploy
+   - Attack
+   - Spy
+   - Harvest/Recycle
+   - Explore
+  - Return fleet/abort
+ - Settings
+ - Social
+  - Friends
+  - Chats
+  - Share espionage report
+  - Comments
+  - Feed
+ - ...
+
 ## License
 
     XNOVA
